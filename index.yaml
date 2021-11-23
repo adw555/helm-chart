@@ -9,6 +9,6 @@ entries:
     name: hello-python
     type: application
     urls:
-    - https://github.com/adw555/helm-chart.git/hello-python-1.0.0.tgz
+    - https://adw555.github.io/helm-chart/hello-python-1.0.0.tgz
     version: 1.0.0
 generated: "2021-11-23T12:24:38.202353Z"
