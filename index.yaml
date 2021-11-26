@@ -3,12 +3,12 @@ entries:
   hello-python:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-26T16:37:01.693063Z"
+    created: "2021-11-26T16:46:20.068687Z"
     description: A Helm chart for Kubernetes
-    digest: 3934721f1046fecc3ec08f7ac6fdfbe7f7288d7041d10da6d58f3a6dfcd081f1
+    digest: 33b65fe64bf8dc1180145c3cd871400dd2e06d4551e42db06a139bf8450b9135
     name: hello-python
     type: application
     urls:
     - https://adw555.github.io/helm-chart/hello-python-1.5.0.tgz
     version: 1.5.0
-generated: "2021-11-26T16:37:01.692455Z"
+generated: "2021-11-26T16:46:20.067822Z"
