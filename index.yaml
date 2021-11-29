@@ -3,7 +3,17 @@ entries:
   hello-python:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-29T12:36:53.126461Z"
+    created: "2021-11-29T12:37:25.99932Z"
+    description: A Helm chart for Kubernetes
+    digest: 41655120e897439bacc88df95295ba5261ea51289cc21c2270dbfb6a5e9bb72a
+    name: hello-python
+    type: application
+    urls:
+    - https://adw555.github.io/helm-chart/hello-python-1.5.5.tgz
+    version: 1.5.5
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2021-11-29T12:37:25.998793Z"
     description: A Helm chart for Kubernetes
     digest: 9170f2d8993c87bc404bc5c3e9add346d422b11633583764dd9e3a619e4af430
     name: hello-python
@@ -13,7 +23,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-29T12:36:53.125987Z"
+    created: "2021-11-29T12:37:25.998256Z"
     description: A Helm chart for Kubernetes
     digest: c93a9ec5210cabad01d1823c49fea99fba9ee31d4c7c8eb35a0ce8bee20de012
     name: hello-python
@@ -23,7 +33,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-29T12:36:53.125351Z"
+    created: "2021-11-29T12:37:25.997681Z"
     description: A Helm chart for Kubernetes
     digest: 3bc45fd2a70c3d96a55a3b93da6977b5ea6487a1be7376969bbdf9c58e5afa4a
     name: hello-python
@@ -33,7 +43,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-29T12:36:53.124462Z"
+    created: "2021-11-29T12:37:25.997203Z"
     description: A Helm chart for Kubernetes
     digest: c4e02fc1c28d2e956239f93983e0239750abc7549143cc9d9f32abbcb4480273
     name: hello-python
@@ -43,7 +53,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2021-11-29T12:36:53.123471Z"
+    created: "2021-11-29T12:37:25.996733Z"
     description: A Helm chart for Kubernetes
     digest: 33b65fe64bf8dc1180145c3cd871400dd2e06d4551e42db06a139bf8450b9135
     name: hello-python
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://adw555.github.io/helm-chart/hello-python-1.5.0.tgz
     version: 1.5.0
-generated: "2021-11-29T12:36:53.121738Z"
+generated: "2021-11-29T12:37:25.996083Z"
